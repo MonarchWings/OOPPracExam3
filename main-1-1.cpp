@@ -4,5 +4,5 @@ using namespace std;
 
 int main(){
     Cage();
-    return 0
+    return 0;
 }

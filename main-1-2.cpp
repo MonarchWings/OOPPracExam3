@@ -4,6 +4,6 @@
 using namespace std;
 
 int main(){
-    Clinic()
-    return 0
+    Clinic();
+    return 0;
 }
