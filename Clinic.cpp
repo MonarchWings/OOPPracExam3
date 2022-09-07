@@ -1,7 +1,7 @@
 #include <iostream>
-#include <Cage.cpp>
+#include "Cage.cpp"
 using namespace std;
 
-class clinic(){
+class Clinic(std::string name, int max_size){
     virtual int 
 }

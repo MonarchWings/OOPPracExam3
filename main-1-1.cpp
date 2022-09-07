@@ -1,8 +1,8 @@
 #include <iostream>
-#include <Cage.cpp>
+#include "Cage.cpp"
 using namespace std;
 
 void main(){
-    Cage(std::string newName, int newNumber);
+    Cage();
     return 0
 }
