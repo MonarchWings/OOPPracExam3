@@ -1,4 +1,3 @@
-#include Cage
-class clinic(){
+class Cage(){
     virtual int 
 }

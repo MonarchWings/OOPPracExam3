@@ -1,5 +1,5 @@
 #include <iostream>
-#include Cage
+#include Cage.cpp
 using namespace std;
 
 class clinic(){
