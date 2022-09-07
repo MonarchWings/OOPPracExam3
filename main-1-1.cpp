@@ -2,7 +2,7 @@
 #include "Cage.cpp"
 using namespace std;
 
-void main(){
+int main(){
     Cage();
     return 0
 }

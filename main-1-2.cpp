@@ -3,7 +3,7 @@
 #include "Clinic.cpp"
 using namespace std;
 
-void main(){
+int main(){
     Clinic()
     return 0
 }
